@@ -1,0 +1,12 @@
+# ---------------------------------------------------------------------------
+# Deny-by-default. This repo is PUBLIC and must contain ONLY the share-safe
+# dashboard. Everything is ignored unless explicitly allowed below, so any
+# stray or sensitive file dropped into this folder is excluded automatically
+# and can never be accidentally committed.
+# ---------------------------------------------------------------------------
+*
+
+# ...except these, the only files that belong in this repo:
+!j3_cot_dashboard_public.html
+!README.md
+!.gitignore
