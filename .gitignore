@@ -8,12 +8,10 @@
 
 # ...except these, the only files that belong in this repo:
 !j3_cot_dashboard_public.html
-!README.md
-!.gitignore
-!index.html
-!.nojekyll
 !j3_cot_dashboard_nereus.html
 !j3_cot_dashboard_proteus.html
 !j3_cot_dashboard_briareus.html
+!README.md
+!.gitignore
 !index.html
 !.nojekyll
